@@ -1,6 +1,6 @@
 # socket-chat
 
-![result](https://s19.aconvert.com/convert/p3r68-cdx67/ede59-h5ya8.gif)
+![result](https://raw.githubusercontent.com/wiki/revenue-hack/socket-chat-sample/images/socket-chat.gif)
 
 ## setup
 ```
